@@ -8,7 +8,7 @@ There is no need to install the game. The build version of the game is in the bu
 
 # Features & Keybinds
 * This is a 1 player game
-* The rules are simple, players only need to run as far as possible to get the highest score.
+* The rules are simple, player only need to run as far as possible to get the highest score.
 * Controls :
   * Click to Jump
 
